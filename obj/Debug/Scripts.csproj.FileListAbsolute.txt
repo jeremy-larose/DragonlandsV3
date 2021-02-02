@@ -277,3 +277,4 @@ F:\Projects\DragonlandsV3\obj\Debug\Scripts.csproj.CoreCompileInputs.cache
 F:\Projects\DragonlandsV3\obj\Debug\Scripts.csproj.CopyComplete
 F:\Projects\DragonlandsV3\obj\Debug\Scripts.dll
 F:\Projects\DragonlandsV3\obj\Debug\Scripts.pdb
+F:\Projects\DragonlandsV3\Temp\Bin\Debug\NSubstitute.dll

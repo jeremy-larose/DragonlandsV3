@@ -198,7 +198,6 @@ F:\Projects\DragonlandsV3\Temp\Bin\Debug\UnityEngine.VRModule.dll
 F:\Projects\DragonlandsV3\Temp\Bin\Debug\UnityEngine.WindModule.dll
 F:\Projects\DragonlandsV3\Temp\Bin\Debug\UnityEngine.XRModule.dll
 F:\Projects\DragonlandsV3\Temp\Bin\Debug\Unity.Cecil.dll
-F:\Projects\DragonlandsV3\Temp\Bin\Debug\System.Configuration.dll
 F:\Projects\DragonlandsV3\Temp\Bin\Debug\System.EnterpriseServices.dll
 F:\Projects\DragonlandsV3\Temp\Bin\Debug\System.Transactions.dll
 F:\Projects\DragonlandsV3\Temp\Bin\Debug\System.Diagnostics.Tracing.dll
@@ -287,3 +286,4 @@ F:\Projects\DragonlandsV3\obj\Debug\Tests.csproj.CoreCompileInputs.cache
 F:\Projects\DragonlandsV3\obj\Debug\Tests.csproj.CopyComplete
 F:\Projects\DragonlandsV3\obj\Debug\Tests.dll
 F:\Projects\DragonlandsV3\obj\Debug\Tests.pdb
+F:\Projects\DragonlandsV3\Temp\Bin\Debug\NSubstitute.dll

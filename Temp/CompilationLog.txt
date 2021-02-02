@@ -1,2 +1,4 @@
-# Starting compiling PlayTests.dll
-C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-18d103ba8aa0d9544850e84383c8d3e9
+# Starting compiling Assembly-CSharp.dll
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-92ad7bf52a188c04f979a6304d7fa8ee
+# Starting compiling Assembly-CSharp-Editor.dll
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a3974770d0f2970448adbdd69cbdf964

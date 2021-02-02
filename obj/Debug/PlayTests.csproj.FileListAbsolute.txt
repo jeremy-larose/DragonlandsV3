@@ -279,3 +279,4 @@ F:\Projects\DragonlandsV3\Temp\Bin\Debug\UnityEngine.UI.pdb
 F:\Projects\DragonlandsV3\obj\Debug\PlayTests.csproj.CopyComplete
 F:\Projects\DragonlandsV3\obj\Debug\PlayTests.dll
 F:\Projects\DragonlandsV3\obj\Debug\PlayTests.pdb
+F:\Projects\DragonlandsV3\Temp\Bin\Debug\NSubstitute.dll
