@@ -1,0 +1,2 @@
+# Starting compiling PlayTests.dll
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-18d103ba8aa0d9544850e84383c8d3e9

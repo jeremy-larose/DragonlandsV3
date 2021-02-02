@@ -1,0 +1,3455 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 2560
+    height: 1357
+  m_ShowMode: 4
+  m_Title: Hierarchy
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 663}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2560
+    height: 1357
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_UseTopView: 1
+  m_TopViewHeight: 30
+  m_UseBottomView: 1
+  m_BottomViewHeight: 20
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2560
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LoadedToolbars:
+  - {fileID: 28}
+  m_MainToolbar: {fileID: 28}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 1337
+    width: 2560
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 14}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 2560
+    height: 1307
+  m_MinSize: {x: 780, y: 613}
+  m_MaxSize: {x: 16005, y: 18063}
+  vertical: 1
+  controlID: 59
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 13}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2560
+    height: 1034
+  m_MinSize: {x: 780, y: 492}
+  m_MaxSize: {x: 16005, y: 14042}
+  vertical: 0
+  controlID: 60
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2092
+    height: 1034
+  m_MinSize: {x: 505, y: 492}
+  m_MaxSize: {x: 12005, y: 14042}
+  vertical: 1
+  controlID: 61
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 10}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2092
+    height: 760
+  m_MinSize: {x: 505, y: 221}
+  m_MaxSize: {x: 12005, y: 4021}
+  vertical: 0
+  controlID: 62
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 462
+    height: 760
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 462
+    y: 0
+    width: 743
+    height: 760
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: GameView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1205
+    y: 0
+    width: 887
+    height: 760
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 18}
+  - {fileID: 19}
+  - {fileID: 15}
+  m_Selected: 2
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectBrowser
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 760
+    width: 2092
+    height: 274
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 20}
+  - {fileID: 21}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InspectorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 2092
+    y: 0
+    width: 468
+    height: 1034
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 22}
+  m_Panes:
+  - {fileID: 22}
+  - {fileID: 23}
+  - {fileID: 24}
+  - {fileID: 25}
+  - {fileID: 26}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ConsoleWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 1034
+    width: 2560
+    height: 273
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
+  m_ActualView: {fileID: 27}
+  m_Panes:
+  - {fileID: 27}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1205
+    y: 73
+    width: 885
+    height: 739
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 1920, y: 1080}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 03000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -960
+    m_HBaseRangeMax: 960
+    m_VBaseRangeMin: -540
+    m_VBaseRangeMax: 540
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 885
+      height: 718
+    m_Scale: {x: 0.4609375, y: 0.4609375}
+    m_Translation: {x: 442.5, y: 359}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -960
+      y: -778.8475
+      width: 1920
+      height: 1557.695
+    m_MinimalGUI: 1
+  m_defaultScale: 0.4609375
+  m_LastWindowPixelSize: {x: 885, y: 739}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 461
+    height: 739
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 88a0ffffa2abfffffaaffffffcafffff9ebfffff9cc3ffff9ec3fffffed0ffffdae0ffff0ae1ffff90ebffff54fbfffff850000018510000c255000052570000ae590000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 9}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: f47323e87b50f364ea7ed4f0c9aa1a64
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 462
+    y: 73
+    width: 741
+    height: 739
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: aaea2b2eb5897a94c94afa32f2b4a93c
+  m_Gizmos: 1
+  m_OverrideSceneCullingMask: 6917529027641081856
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 0.21780153, y: 0.7269834, z: -0.6163768}
+    speed: 2
+    m_Value: {x: 0.21780153, y: 0.7269834, z: -0.61637676}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_SceneViewState:
+    m_AlwaysRefresh: 1
+    showFog: 1
+    showSkybox: 0
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+    showVisualEffectGraphs: 1
+    m_FxEnabled: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: -0.17757271, y: 0.72248876, z: -0.20136303, w: -0.63713014}
+    speed: 2
+    m_Value: {x: -0.17761503, y: 0.725043, z: -0.20324744, w: -0.6336055}
+  m_Size:
+    m_Target: 1.2142615
+    speed: 2
+    m_Value: 1.2142615
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.49748743
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 0
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 455, y: 354}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: -8693916549880196297, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1217
+    y: 73
+    width: 833
+    height: 742
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 803
+    y: 73
+    width: 1247
+    height: 742
+  m_ViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: -6453399820824599120, guid: b676bf0b87572b745843d74584ec7c57, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 1.0263174
+      e01: 0
+      e02: 0
+      e03: -11.391134
+      e10: 0
+      e11: 1.0263174
+      e12: 0
+      e13: 251.54276
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: b676bf0b87572b745843d74584ec7c57, type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: -6453399820824599120, guid: b676bf0b87572b745843d74584ec7c57, type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 1
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 1
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 833
+    width: 2091
+    height: 253
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Art
+    m_Globs: []
+    m_OriginalText: 
+  m_ViewMode: 1
+  m_StartGridSize: 81
+  m_LastFolders:
+  - Assets/Art
+  m_LastFoldersGridSize: 81
+  m_LastProjectPath: F:\Projects\ArchitectRPG
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 143}
+    m_SelectedIDs: 8e3e0000
+    m_LastClickedID: 16014
+    m_ExpandedIDs: 000000008c3e00008e3e0000903e0000923e0000943e0000963e0000983e00009a3e00009c3e00009e3e0000a03e0000a23e0000a43e0000a63e0000a83e0000aa3e0000ac3e0000fc3e000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 12}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 495}
+    m_SelectedIDs: cc860000
+    m_LastClickedID: 34508
+    m_ExpandedIDs: 000000008c3e00008e3e0000903e0000923e0000943e0000963e0000983e00009a3e00009c3e00009e3e0000a03e0000a23e0000a43e0000a63e0000a83e0000aa3e0000ac3e0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 12}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300001a5000007263000080430000225f00004c4b0000964200004c450000fc4300000a5f000000000000864f0000c85900004c4a0000c07c0800ae470000ea43000058510000fe3c0000444d000068510000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 81
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 325
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animation
+    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 836
+    width: 2051
+    height: 250
+  m_ViewDataDictionary: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 21954
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2092
+    y: 73
+    width: 467
+    height: 1013
+  m_ViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_PreviewResizer:
+    m_CachedPref: -331
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+  m_GlobalObjectId: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2092
+    y: 73
+    width: 467
+    height: 1013
+  m_ViewDataDictionary: {fileID: 0}
+  m_Spl:
+    ID: 243
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes:
+    - 707
+    - 236
+    relativeSizes:
+    - 0.75
+    - 0.25
+    minSizes:
+    - 32
+    - 32
+    maxSizes:
+    - 0
+    - 0
+    lastTotalSize: 943
+    splitSize: 6
+    xOffset: 0
+    m_Version: 1
+    oldRealSizes: 
+    oldMinSizes: 
+    oldMaxSizes: 
+    oldSplitSize: 0
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 23}
+    newResultList:
+    - id: 1007
+      uniqueId: '[ArchitectRPG][suite]'
+      name: ArchitectRPG
+      fullName: ArchitectRPG
+      resultStatus: 2
+      duration: 18.174963
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1157
+      uniqueId: '[PlayTests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll][suite]'
+      name: PlayTests.dll
+      fullName: F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll
+      resultStatus: 2
+      duration: 18.020952
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1081
+      parentUniqueId: '[ArchitectRPG][suite]'
+    - id: 1082
+      uniqueId: PlayTests.dll/[PlayTests][a_moving_cube][suite]
+      name: a_moving_cube
+      fullName: a_moving_cube
+      resultStatus: 1
+      duration: 0.1507287
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1157
+      parentUniqueId: '[PlayTests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll][suite]'
+    - id: 1083
+      uniqueId: PlayTests.dll/a_moving_cube/[PlayTests][a_moving_cube.moving_forward_changes_position]
+      name: moving_forward_changes_position
+      fullName: a_moving_cube.moving_forward_changes_position
+      resultStatus: 1
+      duration: 0.1231971
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1082
+      parentUniqueId: PlayTests.dll/[PlayTests][a_moving_cube][suite]
+    - id: 1160
+      uniqueId: PlayTests.dll/[PlayTests][a_player][suite]
+      name: a_player
+      fullName: a_player
+      resultStatus: 2
+      duration: 13.365533
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1157
+      parentUniqueId: '[PlayTests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll][suite]'
+    - id: 1145
+      uniqueId: PlayTests.dll/a_player/[PlayTests][a_player.moving_into_an_item][suite]
+      name: moving_into_an_item
+      fullName: a_player.moving_into_an_item
+      resultStatus: 2
+      duration: 1.9043493
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1160
+      parentUniqueId: PlayTests.dll/[PlayTests][a_player][suite]
+    - id: 1147
+      uniqueId: PlayTests.dll/a_player/moving_into_an_item/[PlayTests][a_player.moving_into_an_item.changes_crosshair_to_item_crosshair]
+      name: changes_crosshair_to_item_crosshair
+      fullName: a_player.moving_into_an_item.changes_crosshair_to_item_crosshair
+      resultStatus: 2
+      duration: 0.6942259
+      messages: "  Expected: <crosshairs64_1_0 (UnityEngine.Sprite)>\r\n  But was: 
+        <crosshairs64_1_5 (UnityEngine.Sprite)>\r\n"
+      output: 
+      stacktrace: 'at a_player.moving_into_an_item+<changes_crosshair_to_item_crosshair>d__4.MoveNext
+        () [0x0009c] in F:\Projects\ArchitectRPG\Assets\PlayTests\moving_into_an_item.cs:48
+
+        at
+        UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\Projects\ArchitectRPG\Library\PackageCache\com.unity.test-framework@1.1.19\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:36
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1145
+      parentUniqueId: PlayTests.dll/a_player/[PlayTests][a_player.moving_into_an_item][suite]
+    - id: 1146
+      uniqueId: PlayTests.dll/a_player/moving_into_an_item/[PlayTests][a_player.moving_into_an_item.picks_up_and_equips_item]
+      name: picks_up_and_equips_item
+      fullName: a_player.moving_into_an_item.picks_up_and_equips_item
+      resultStatus: 2
+      duration: 1.2003124
+      messages: "  Expected: same as <Bow (Item)>\r\n  But was:  null\r\n"
+      output: 
+      stacktrace: 'at a_player.moving_into_an_item+<picks_up_and_equips_item>d__3.MoveNext
+        () [0x00066] in F:\Projects\ArchitectRPG\Assets\PlayTests\moving_into_an_item.cs:34
+
+        at
+        UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\Projects\ArchitectRPG\Library\PackageCache\com.unity.test-framework@1.1.19\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:36
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1145
+      parentUniqueId: PlayTests.dll/a_player/[PlayTests][a_player.moving_into_an_item][suite]
+    - id: 1153
+      uniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_negative_mouse_x][suite]
+      name: with_negative_mouse_x
+      fullName: a_player.with_negative_mouse_x
+      resultStatus: 1
+      duration: 0.629343
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1160
+      parentUniqueId: PlayTests.dll/[PlayTests][a_player][suite]
+    - id: 1154
+      uniqueId: PlayTests.dll/a_player/with_negative_mouse_x/[PlayTests][a_player.with_negative_mouse_x.turns_left]
+      name: turns_left
+      fullName: a_player.with_negative_mouse_x.turns_left
+      resultStatus: 1
+      duration: 0.6149457
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1153
+      parentUniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_negative_mouse_x][suite]
+    - id: 1151
+      uniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_negative_vertical_input][suite]
+      name: with_negative_vertical_input
+      fullName: a_player.with_negative_vertical_input
+      resultStatus: 1
+      duration: 5.112352
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1160
+      parentUniqueId: PlayTests.dll/[PlayTests][a_player][suite]
+    - id: 1152
+      uniqueId: PlayTests.dll/a_player/with_negative_vertical_input/[PlayTests][a_player.with_negative_vertical_input.moves_back]
+      name: moves_back
+      fullName: a_player.with_negative_vertical_input.moves_back
+      resultStatus: 1
+      duration: 5.097116
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1151
+      parentUniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_negative_vertical_input][suite]
+    - id: 1155
+      uniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_positive_mouse_x][suite]
+      name: with_positive_mouse_x
+      fullName: a_player.with_positive_mouse_x
+      resultStatus: 1
+      duration: 0.5895237
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1160
+      parentUniqueId: PlayTests.dll/[PlayTests][a_player][suite]
+    - id: 1156
+      uniqueId: PlayTests.dll/a_player/with_positive_mouse_x/[PlayTests][a_player.with_positive_mouse_x.turns_right]
+      name: turns_right
+      fullName: a_player.with_positive_mouse_x.turns_right
+      resultStatus: 1
+      duration: 0.5776104
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1155
+      parentUniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_positive_mouse_x][suite]
+    - id: 1149
+      uniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_positive_vertical_input][suite]
+      name: with_positive_vertical_input
+      fullName: a_player.with_positive_vertical_input
+      resultStatus: 1
+      duration: 5.111893
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1160
+      parentUniqueId: PlayTests.dll/[PlayTests][a_player][suite]
+    - id: 1150
+      uniqueId: PlayTests.dll/a_player/with_positive_vertical_input/[PlayTests][a_player.with_positive_vertical_input.moves_forward]
+      name: moves_forward
+      fullName: a_player.with_positive_vertical_input.moves_forward
+      resultStatus: 1
+      duration: 5.0984097
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1149
+      parentUniqueId: PlayTests.dll/a_player/[PlayTests][a_player.with_positive_vertical_input][suite]
+    - id: 1158
+      uniqueId: PlayTests.dll/[PlayTests][suite]
+      name: PlayTests
+      fullName: PlayTests
+      resultStatus: 2
+      duration: 2.1396368
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1157
+      parentUniqueId: '[PlayTests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll][suite]'
+    - id: 1084
+      uniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory][suite]
+      name: inventory
+      fullName: PlayTests.inventory
+      resultStatus: 2
+      duration: 0.0401183
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1158
+      parentUniqueId: PlayTests.dll/[PlayTests][suite]
+    - id: 1086
+      uniqueId: PlayTests.dll/PlayTests/inventory/[PlayTests][PlayTests.inventory.can_add_item_to_specific_slot]
+      name: can_add_item_to_specific_slot
+      fullName: PlayTests.inventory.can_add_item_to_specific_slot
+      resultStatus: 1
+      duration: 0.0078538
+      messages: 
+      output: '[Equip] Equipped item: Item
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1084
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory][suite]
+    - id: 1085
+      uniqueId: PlayTests.dll/PlayTests/inventory/[PlayTests][PlayTests.inventory.can_add_items]
+      name: can_add_items
+      fullName: PlayTests.inventory.can_add_items
+      resultStatus: 2
+      duration: 0.002012
+      messages: "  Expected: 1\r\n  But was:  31\r\n"
+      output: 
+      stacktrace: 'at PlayTests.inventory.can_add_items () [0x00045] in F:\Projects\ArchitectRPG\Assets\PlayTests\inventory.cs:16
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1084
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory][suite]
+    - id: 1087
+      uniqueId: PlayTests.dll/PlayTests/inventory/[PlayTests][PlayTests.inventory.can_move_item_to_empty_slot]
+      name: can_move_item_to_empty_slot
+      fullName: PlayTests.inventory.can_move_item_to_empty_slot
+      resultStatus: 2
+      duration: 0.0009918
+      messages: "  Expected: <Item (Item)>\r\n  But was:  null\r\n"
+      output: 
+      stacktrace: 'at PlayTests.inventory.can_move_item_to_empty_slot () [0x00045]
+        in F:\Projects\ArchitectRPG\Assets\PlayTests\inventory.cs:38
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1084
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory][suite]
+    - id: 1090
+      uniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+      name: inventory_panel
+      fullName: PlayTests.inventory_panel
+      resultStatus: 2
+      duration: 0.9700721
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1158
+      parentUniqueId: PlayTests.dll/[PlayTests][suite]
+    - id: 1092
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_empty_inventory_has_all_slots_empty]
+      name: bound_to_empty_inventory_has_all_slots_empty
+      fullName: PlayTests.inventory_panel.bound_to_empty_inventory_has_all_slots_empty
+      resultStatus: 2
+      duration: 0.0238049
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.bound_to_empty_inventory_has_all_slots_empty
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:83
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1119
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+      name: bound_to_inventory_fills_slot_for_each_item
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item
+      resultStatus: 2
+      duration: 0.7477302
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1093
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(0)]
+      name: bound_to_inventory_fills_slot_for_each_item(0)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(0)
+      resultStatus: 2
+      duration: 0.022329
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1094
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(1)]
+      name: bound_to_inventory_fills_slot_for_each_item(1)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(1)
+      resultStatus: 2
+      duration: 0.027593
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1095
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(2)]
+      name: bound_to_inventory_fills_slot_for_each_item(2)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(2)
+      resultStatus: 2
+      duration: 0.0326213
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1096
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(3)]
+      name: bound_to_inventory_fills_slot_for_each_item(3)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(3)
+      resultStatus: 2
+      duration: 0.0314588
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1097
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(4)]
+      name: bound_to_inventory_fills_slot_for_each_item(4)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(4)
+      resultStatus: 2
+      duration: 0.0285928
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1098
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(5)]
+      name: bound_to_inventory_fills_slot_for_each_item(5)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(5)
+      resultStatus: 2
+      duration: 0.0261594
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1099
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(6)]
+      name: bound_to_inventory_fills_slot_for_each_item(6)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(6)
+      resultStatus: 2
+      duration: 0.0269966
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1100
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(7)]
+      name: bound_to_inventory_fills_slot_for_each_item(7)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(7)
+      resultStatus: 2
+      duration: 0.0283031
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1101
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(8)]
+      name: bound_to_inventory_fills_slot_for_each_item(8)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(8)
+      resultStatus: 2
+      duration: 0.0286146
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1102
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(9)]
+      name: bound_to_inventory_fills_slot_for_each_item(9)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(9)
+      resultStatus: 2
+      duration: 0.0273993
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1103
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(10)]
+      name: bound_to_inventory_fills_slot_for_each_item(10)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(10)
+      resultStatus: 2
+      duration: 0.0266248
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1104
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(11)]
+      name: bound_to_inventory_fills_slot_for_each_item(11)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(11)
+      resultStatus: 2
+      duration: 0.026848
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1105
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(12)]
+      name: bound_to_inventory_fills_slot_for_each_item(12)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(12)
+      resultStatus: 2
+      duration: 0.0209945
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1106
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(13)]
+      name: bound_to_inventory_fills_slot_for_each_item(13)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(13)
+      resultStatus: 2
+      duration: 0.0212269
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1107
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(14)]
+      name: bound_to_inventory_fills_slot_for_each_item(14)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(14)
+      resultStatus: 2
+      duration: 0.0220996
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1108
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(15)]
+      name: bound_to_inventory_fills_slot_for_each_item(15)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(15)
+      resultStatus: 2
+      duration: 0.0227043
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1109
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(16)]
+      name: bound_to_inventory_fills_slot_for_each_item(16)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(16)
+      resultStatus: 2
+      duration: 0.0251074
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1110
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(17)]
+      name: bound_to_inventory_fills_slot_for_each_item(17)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(17)
+      resultStatus: 2
+      duration: 0.0219451
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1111
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(18)]
+      name: bound_to_inventory_fills_slot_for_each_item(18)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(18)
+      resultStatus: 2
+      duration: 0.0212489
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1112
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(19)]
+      name: bound_to_inventory_fills_slot_for_each_item(19)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(19)
+      resultStatus: 2
+      duration: 0.02171
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1113
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(20)]
+      name: bound_to_inventory_fills_slot_for_each_item(20)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(20)
+      resultStatus: 2
+      duration: 0.0209892
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1114
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(21)]
+      name: bound_to_inventory_fills_slot_for_each_item(21)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(21)
+      resultStatus: 2
+      duration: 0.0265308
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1115
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(22)]
+      name: bound_to_inventory_fills_slot_for_each_item(22)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(22)
+      resultStatus: 2
+      duration: 0.0289525
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1116
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(23)]
+      name: bound_to_inventory_fills_slot_for_each_item(23)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(23)
+      resultStatus: 2
+      duration: 0.0282736
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1117
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(24)]
+      name: bound_to_inventory_fills_slot_for_each_item(24)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(24)
+      resultStatus: 2
+      duration: 0.0265759
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1118
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/bound_to_inventory_fills_slot_for_each_item/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(25)]
+      name: bound_to_inventory_fills_slot_for_each_item(25)
+      fullName: PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item(25)
+      resultStatus: 2
+      duration: 0.027283
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel+<bound_to_inventory_fills_slot_for_each_item>d__3.MoveNext
+        () [0x00023] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:97
+        \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+        in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1119
+      parentUniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_inventory_fills_slot_for_each_item][suite]
+    - id: 1122
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_null_inventory_has_empty_slots]
+      name: bound_to_null_inventory_has_empty_slots
+      fullName: PlayTests.inventory_panel.bound_to_null_inventory_has_empty_slots
+      resultStatus: 2
+      duration: 0.0141069
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.bound_to_null_inventory_has_empty_slots
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:152
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1123
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.bound_to_valid_inventory_then_bound_to_null_inventory_has_empty_slots]
+      name: bound_to_valid_inventory_then_bound_to_null_inventory_has_empty_slots
+      fullName: PlayTests.inventory_panel.bound_to_valid_inventory_then_bound_to_null_inventory_has_empty_slots
+      resultStatus: 2
+      duration: 0.0148004
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.bound_to_valid_inventory_then_bound_to_null_inventory_has_empty_slots
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:164
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1121
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.does_not_add_items_from_previously_bound_inventory_when_item_is_added]
+      name: does_not_add_items_from_previously_bound_inventory_when_item_is_added
+      fullName: PlayTests.inventory_panel.does_not_add_items_from_previously_bound_inventory_when_item_is_added
+      resultStatus: 2
+      duration: 0.0293918
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.does_not_add_items_from_previously_bound_inventory_when_item_is_added
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:136
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1091
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.has_25_slots]
+      name: has_25_slots
+      fullName: PlayTests.inventory_panel.has_25_slots
+      resultStatus: 2
+      duration: 0.0149555
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.has_25_slots () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:75
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1120
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.places_item_in_slot_when_item_is_added_to_inventory]
+      name: places_item_in_slot_when_item_is_added_to_inventory
+      fullName: PlayTests.inventory_panel.places_item_in_slot_when_item_is_added_to_inventory
+      resultStatus: 2
+      duration: 0.0144949
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.places_item_in_slot_when_item_is_added_to_inventory
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:120
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1124
+      uniqueId: PlayTests.dll/PlayTests/inventory_panel/[PlayTests][PlayTests.inventory_panel.updates_slots_when_items_are_moved]
+      name: updates_slots_when_items_are_moved
+      fullName: PlayTests.inventory_panel.updates_slots_when_items_are_moved
+      resultStatus: 2
+      duration: 0.0124559
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.inventory_panel.updates_slots_when_items_are_moved ()
+        [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:178
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_panel][suite]
+    - id: 1128
+      uniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_selection_with_non_empty_slot_selected][suite]
+      name: inventory_selection_with_non_empty_slot_selected
+      fullName: PlayTests.inventory_selection_with_non_empty_slot_selected
+      resultStatus: 2
+      duration: 0.0182443
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1158
+      parentUniqueId: PlayTests.dll/[PlayTests][suite]
+    - id: 1130
+      uniqueId: PlayTests.dll/PlayTests/inventory_selection_with_non_empty_slot_selected/[PlayTests][PlayTests.inventory_selection_with_non_empty_slot_selected.clicking_slot_clears_selection]
+      name: clicking_slot_clears_selection
+      fullName: PlayTests.inventory_selection_with_non_empty_slot_selected.clicking_slot_clears_selection
+      resultStatus: 2
+      duration: 0.0009562
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.inventory_selection_with_non_empty_slot_selected.clicking_slot_clears_selection
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_selection_with_nothing_selected.cs:50
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1128
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_selection_with_non_empty_slot_selected][suite]
+    - id: 1129
+      uniqueId: PlayTests.dll/PlayTests/inventory_selection_with_non_empty_slot_selected/[PlayTests][PlayTests.inventory_selection_with_non_empty_slot_selected.clicking_slot_moves_selected_item_to_clicked_slot]
+      name: clicking_slot_moves_selected_item_to_clicked_slot
+      fullName: PlayTests.inventory_selection_with_non_empty_slot_selected.clicking_slot_moves_selected_item_to_clicked_slot
+      resultStatus: 2
+      duration: 0.0006512
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.inventory_selection_with_non_empty_slot_selected.clicking_slot_moves_selected_item_to_clicked_slot
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_selection_with_nothing_selected.cs:31
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1128
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_selection_with_non_empty_slot_selected][suite]
+    - id: 1125
+      uniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_selection_with_nothing_selected][suite]
+      name: inventory_selection_with_nothing_selected
+      fullName: PlayTests.inventory_selection_with_nothing_selected
+      resultStatus: 2
+      duration: 0.018479
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1158
+      parentUniqueId: PlayTests.dll/[PlayTests][suite]
+    - id: 1127
+      uniqueId: PlayTests.dll/PlayTests/inventory_selection_with_nothing_selected/[PlayTests][PlayTests.inventory_selection_with_nothing_selected.clicking_empty_slot_does_not_select_slot]
+      name: clicking_empty_slot_does_not_select_slot
+      fullName: PlayTests.inventory_selection_with_nothing_selected.clicking_empty_slot_does_not_select_slot
+      resultStatus: 2
+      duration: 0.0007534
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.inventory_selection_with_nothing_selected.clicking_empty_slot_does_not_select_slot
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_selection_with_nothing_selected.cs:19
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1125
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_selection_with_nothing_selected][suite]
+    - id: 1126
+      uniqueId: PlayTests.dll/PlayTests/inventory_selection_with_nothing_selected/[PlayTests][PlayTests.inventory_selection_with_nothing_selected.clicking_non_empty_slot_selects_slot]
+      name: clicking_non_empty_slot_selects_slot
+      fullName: PlayTests.inventory_selection_with_nothing_selected.clicking_non_empty_slot_selects_slot
+      resultStatus: 2
+      duration: 0.0006895
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.inventory_selection_with_nothing_selected.clicking_non_empty_slot_selects_slot
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_selection_with_nothing_selected.cs:10
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1125
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.inventory_selection_with_nothing_selected][suite]
+    - id: 1088
+      uniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_inventory_slot][suite]
+      name: ui_inventory_slot
+      fullName: PlayTests.ui_inventory_slot
+      resultStatus: 2
+      duration: 0.0201986
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1158
+      parentUniqueId: PlayTests.dll/[PlayTests][suite]
+    - id: 1010
+      uniqueId: PlayTests.dll/PlayTests/ui_inventory_slot/[PlayTests][PlayTests.ui_inventory_slot.when_item_is_not_set_image_is_disabled]
+      name: when_item_is_not_set_image_is_disabled
+      fullName: PlayTests.ui_inventory_slot.when_item_is_not_set_image_is_disabled
+      resultStatus: 2
+      duration: 0.0008237
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.ui_inventory_slot.when_item_is_not_set_image_is_disabled
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:45
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1007
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_inventory_slot][suite]
+    - id: 1089
+      uniqueId: PlayTests.dll/PlayTests/ui_inventory_slot/[PlayTests][PlayTests.ui_inventory_slot.when_item_is_set_changes_icon_to_match]
+      name: when_item_is_set_changes_icon_to_match
+      fullName: PlayTests.ui_inventory_slot.when_item_is_set_changes_icon_to_match
+      resultStatus: 2
+      duration: 0.0007824
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.ui_inventory_slot.when_item_is_set_changes_icon_to_match
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:15
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1088
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_inventory_slot][suite]
+    - id: 1009
+      uniqueId: PlayTests.dll/PlayTests/ui_inventory_slot/[PlayTests][PlayTests.ui_inventory_slot.when_item_is_set_image_is_enabled]
+      name: when_item_is_set_image_is_enabled
+      fullName: PlayTests.ui_inventory_slot.when_item_is_set_image_is_enabled
+      resultStatus: 2
+      duration: 0.0007286
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_panel.GetInventoryPanel () [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:199
+        \r\n  at PlayTests.ui_inventory_slot.when_item_is_set_image_is_enabled ()
+        [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_panel.cs:30
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1007
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_inventory_slot][suite]
+    - id: 1131
+      uniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+      name: ui_selection_cursor
+      fullName: PlayTests.ui_selection_cursor
+      resultStatus: 2
+      duration: 0.9534308
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1158
+      parentUniqueId: PlayTests.dll/[PlayTests][suite]
+    - id: 1056
+      uniqueId: PlayTests.dll/PlayTests/ui_selection_cursor/[PlayTests][PlayTests.ui_selection_cursor.disables_raycastTarget]
+      name: disables_raycastTarget
+      fullName: PlayTests.ui_selection_cursor.disables_raycastTarget
+      resultStatus: 2
+      duration: 0.0010635
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.ui_selection_cursor.disables_raycastTarget () [0x00001]
+        in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\ui_selection_cursor.cs:79
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1050
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+    - id: 1132
+      uniqueId: PlayTests.dll/PlayTests/ui_selection_cursor/[PlayTests][PlayTests.ui_selection_cursor.in_default_state_shows_no_icon]
+      name: in_default_state_shows_no_icon
+      fullName: PlayTests.ui_selection_cursor.in_default_state_shows_no_icon
+      resultStatus: 2
+      duration: 0.0009697
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.ui_selection_cursor.in_default_state_shows_no_icon ()
+        [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\ui_selection_cursor.cs:19
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1131
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+    - id: 1137
+      uniqueId: PlayTests.dll/PlayTests/ui_selection_cursor/[PlayTests][PlayTests.ui_selection_cursor.moves_with_mouse_cursor]
+      name: moves_with_mouse_cursor
+      fullName: PlayTests.ui_selection_cursor.moves_with_mouse_cursor
+      resultStatus: 1
+      duration: 0.9176344
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1132
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+    - id: 1135
+      uniqueId: PlayTests.dll/PlayTests/ui_selection_cursor/[PlayTests][PlayTests.ui_selection_cursor.when_item_is_unselected_sets_icon_to_not_visible]
+      name: when_item_is_unselected_sets_icon_to_not_visible
+      fullName: PlayTests.ui_selection_cursor.when_item_is_unselected_sets_icon_to_not_visible
+      resultStatus: 2
+      duration: 0.000924
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.ui_selection_cursor.when_item_is_unselected_sets_icon_to_not_visible
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\ui_selection_cursor.cs:47
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1131
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+    - id: 1134
+      uniqueId: PlayTests.dll/PlayTests/ui_selection_cursor/[PlayTests][PlayTests.ui_selection_cursor.when_item_selected_sets_icon_image_to_correct_sprite]
+      name: when_item_selected_sets_icon_image_to_correct_sprite
+      fullName: PlayTests.ui_selection_cursor.when_item_selected_sets_icon_image_to_correct_sprite
+      resultStatus: 2
+      duration: 0.0006966
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.ui_selection_cursor.when_item_selected_sets_icon_image_to_correct_sprite
+        () [0x00001] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\ui_selection_cursor.cs:38
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1131
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+    - id: 1133
+      uniqueId: PlayTests.dll/PlayTests/ui_selection_cursor/[PlayTests][PlayTests.ui_selection_cursor.with_item_selected_shows_item]
+      name: with_item_selected_shows_item
+      fullName: PlayTests.ui_selection_cursor.with_item_selected_shows_item
+      resultStatus: 2
+      duration: 0.0005231
+      messages: 'System.ArgumentException : The Object you want to instantiate is
+        null.'
+      output: 
+      stacktrace: "  at UnityEngine.Object.CheckNullArgument (System.Object arg,
+        System.String message) [0x00009] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at UnityEngine.Object.Instantiate[T] (T original) [0x00001] in <e414e10bfe5f45729ff122f3359de21b>:0
+        \r\n  at PlayTests.inventory_helpers.GetInventoryPanelWithItems (System.Int32
+        numberOfItems) [0x0000c] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\inventory_helpers.cs:11
+        \r\n  at PlayTests.ui_selection_cursor.with_item_selected_shows_item () [0x00001]
+        in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\ui_selection_cursor.cs:28
+        \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\n 
+        at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+        invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+        System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1131
+      parentUniqueId: PlayTests.dll/PlayTests/[PlayTests][PlayTests.ui_selection_cursor][suite]
+    - id: 1159
+      uniqueId: PlayTests.dll/[PlayTests][state_machine][suite]
+      name: state_machine
+      fullName: state_machine
+      resultStatus: 2
+      duration: 2.2013958
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1157
+      parentUniqueId: '[PlayTests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll][suite]'
+    - id: 1136
+      uniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.entity_state_machine][suite]
+      name: entity_state_machine
+      fullName: state_machine.entity_state_machine
+      resultStatus: 2
+      duration: 0.5483495
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1159
+      parentUniqueId: PlayTests.dll/[PlayTests][state_machine][suite]
+    - id: 1137
+      uniqueId: PlayTests.dll/state_machine/entity_state_machine/[PlayTests][state_machine.entity_state_machine.start_in_idle_state]
+      name: start_in_idle_state
+      fullName: state_machine.entity_state_machine.start_in_idle_state
+      resultStatus: 1
+      duration: 0.2359903
+      messages: 
+      output: 'Changed to state: Idle
+
+        Idle
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1136
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.entity_state_machine][suite]
+    - id: 1138
+      uniqueId: PlayTests.dll/state_machine/entity_state_machine/[PlayTests][state_machine.entity_state_machine.switches_to_chase_player_state_when_in_chase_range]
+      name: switches_to_chase_player_state_when_in_chase_range
+      fullName: state_machine.entity_state_machine.switches_to_chase_player_state_when_in_chase_range
+      resultStatus: 1
+      duration: 0.1605198
+      messages: 
+      output: 'Idle
+
+        Idle
+
+        Idle
+
+        Changed to state: Idle
+
+        Idle
+
+        Idle
+
+        Changed
+        to state: ChasePlayer
+
+        HandleEntityStateChanged: ChasePlayer
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1136
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.entity_state_machine][suite]
+    - id: 1139
+      uniqueId: PlayTests.dll/state_machine/entity_state_machine/[PlayTests][state_machine.entity_state_machine.switches_to_dead_only_once_health_reaches_zero]
+      name: switches_to_dead_only_once_health_reaches_zero
+      fullName: state_machine.entity_state_machine.switches_to_dead_only_once_health_reaches_zero
+      resultStatus: 2
+      duration: 0.1270962
+      messages: 'Unhandled log message: ''[Exception] NullReferenceException: Object
+        reference not set to an instance of an object''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Changed to state: Idle
+
+        Idle
+
+        Idle
+
+        I took
+        a non lethal hit.
+
+        Idle
+
+        I died.
+
+        Changed to state:
+        Dead
+
+        HandleEntityStateChanged: Dead
+
+        NullReferenceException:
+        Object reference not set to an instance of an object
+
+'
+      stacktrace: 'LootSystem.Drop (Item item, UnityEngine.Transform droppingTransform)
+        (at Assets/Scripts/Inventory/LootSystem.cs:32)
+
+        NPCLoot.Droploot
+        () (at Assets/Scripts/Entities/NPCLoot.cs:34)
+
+        NPCLoot.HandleEntityStateChanged
+        (IState state) (at Assets/Scripts/Entities/NPCLoot.cs:27)
+
+        EntityStateMachine.<Awake>b__9_0
+        (IState state) (at Assets/Scripts/StateMachine/EntityStateMachine.cs:20)
+
+        StateMachine.SetState
+        (IState state) (at Assets/Scripts/StateMachine/StateMachine.cs:36)
+
+        StateMachine.Tick
+        () (at Assets/Scripts/StateMachine/StateMachine.cs:44)
+
+        EntityStateMachine.Update
+        () (at Assets/Scripts/StateMachine/EntityStateMachine.cs:50)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1136
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.entity_state_machine][suite]
+    - id: 1140
+      uniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.game_state_machine][suite]
+      name: game_state_machine
+      fullName: state_machine.game_state_machine
+      resultStatus: 1
+      duration: 1.6249317
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1159
+      parentUniqueId: PlayTests.dll/[PlayTests][state_machine][suite]
+    - id: 1144
+      uniqueId: PlayTests.dll/state_machine/game_state_machine/[PlayTests][state_machine.game_state_machine.only_allows_one_instance_to_exist]
+      name: only_allows_one_instance_to_exist
+      fullName: state_machine.game_state_machine.only_allows_one_instance_to_exist
+      resultStatus: 1
+      duration: 0.0495021
+      messages: 
+      output: 'Changed to state: Menu
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1140
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.game_state_machine][suite]
+    - id: 1143
+      uniqueId: PlayTests.dll/state_machine/game_state_machine/[PlayTests][state_machine.game_state_machine.switches_from_play_to_pause_when_pause_button_pressed]
+      name: switches_from_play_to_pause_when_pause_button_pressed
+      fullName: state_machine.game_state_machine.switches_from_play_to_pause_when_pause_button_pressed
+      resultStatus: 1
+      duration: 0.7419615
+      messages: 
+      output: 'Changed to state: Menu
+
+        Changed to state: LoadLevel
+
+        Changed
+        to state: Idle
+
+        Changed to state: Idle
+
+        Changed to state:
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Changed to state: Play
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Changed to state: Pause
+
+        Idle
+
+        Idle
+
+        Idle
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1140
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.game_state_machine][suite]
+    - id: 1141
+      uniqueId: PlayTests.dll/state_machine/game_state_machine/[PlayTests][state_machine.game_state_machine.switches_to_loading_when_level_to_load_selected]
+      name: switches_to_loading_when_level_to_load_selected
+      fullName: state_machine.game_state_machine.switches_to_loading_when_level_to_load_selected
+      resultStatus: 1
+      duration: 0.1196139
+      messages: 
+      output: 'There are 2 event systems in the scene. Please ensure there is always
+        exactly one event system in the scene
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Changed
+        to state: Menu
+
+        Changed to state: LoadLevel
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1140
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.game_state_machine][suite]
+    - id: 1142
+      uniqueId: PlayTests.dll/state_machine/game_state_machine/[PlayTests][state_machine.game_state_machine.switches_to_play_when_level_to_load_completed]
+      name: switches_to_play_when_level_to_load_completed
+      fullName: state_machine.game_state_machine.switches_to_play_when_level_to_load_completed
+      resultStatus: 1
+      duration: 0.6966033
+      messages: 
+      output: 'Changed to state: Menu
+
+        Changed to state: Idle
+
+        Changed
+        to state: Idle
+
+        Changed to state: Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Changed
+        to state: LoadLevel
+
+        Changed to state: Idle
+
+        Changed to state:
+        Idle
+
+        Changed to state: Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        Idle
+
+        There
+        are 2 event systems in the scene. Please ensure there is always exactly one
+        event system in the scene
+
+        Changed to state: Play
+
+        Idle
+
+        Idle
+
+        Idle
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1140
+      parentUniqueId: PlayTests.dll/state_machine/[PlayTests][state_machine.game_state_machine][suite]
+    - id: 1003
+      uniqueId: PlayTests.dll/[PlayTests][stats][suite]
+      name: stats
+      fullName: stats
+      resultStatus: 1
+      duration: 0.0236992
+      messages: 
+      output: 'There are 2 event systems in the scene. Please ensure there is always
+        exactly one event system in the scene
+
+        Idle
+
+        Idle
+
+        Idle
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1083
+      parentUniqueId: '[PlayTests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/PlayTests.dll][suite]'
+    - id: 1004
+      uniqueId: PlayTests.dll/stats/[PlayTests][stats.can_add]
+      name: can_add
+      fullName: stats.can_add
+      resultStatus: 1
+      duration: 0.0006702
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: PlayTests.dll/[PlayTests][stats][suite]
+    - id: 1005
+      uniqueId: PlayTests.dll/stats/[PlayTests][stats.can_remove]
+      name: can_remove
+      fullName: stats.can_remove
+      resultStatus: 1
+      duration: 0.000753
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: PlayTests.dll/[PlayTests][stats][suite]
+    m_ResultText: "change_slot_1_icon_to_match_item_icon (0.519s)\n---\nSystem.NullReferenceException
+      : Object reference not set to an instance of an object\n---\nat a_player.moving_into_an_item+<change_slot_1_icon_to_match_item_icon>d__5.MoveNext
+      () [0x0002e] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\moving_into_an_item.cs:55
+      \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+      in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36"
+    m_ResultStacktrace: "  at a_player.moving_into_an_item+<change_slot_1_icon_to_match_item_icon>d__5.MoveNext
+      () [0x0002e] in F:\\Projects\\ArchitectRPG\\Assets\\PlayTests\\moving_into_an_item.cs:55
+      \r\n  at UnityEngine.TestTools.TestEnumerator+<Execute>d__6.MoveNext () [0x0004c]
+      in F:\\Projects\\ArchitectRPG\\Library\\PackageCache\\com.unity.test-framework@1.1.19\\UnityEngine.TestRunner\\NUnitExtensions\\Attributes\\TestEnumerator.cs:36 "
+    m_TestListState:
+      scrollPos: {x: 0, y: 17}
+      m_SelectedIDs: e4847274
+      m_LastClickedID: 1953662180
+      m_ExpandedIDs: 42ab3e90fcc1a5c35b064dc9beccf6d6be5743d77111d0d8203b1ce7291dedf8e51fc1fcbf3b201036d39415da1446193bca8d382500745b66601268c6831a6c59e9577dffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+    m_SelectedOption: 0
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 23}
+    newResultList:
+    - id: 1000
+      uniqueId: '[ArchitectRPG][suite]'
+      name: ArchitectRPG
+      fullName: ArchitectRPG
+      resultStatus: 1
+      duration: 0.2583031
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1004
+      uniqueId: '[Tests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/Tests.dll][suite]'
+      name: Tests.dll
+      fullName: F:/Projects/ArchitectRPG/Library/ScriptAssemblies/Tests.dll
+      resultStatus: 1
+      duration: 0.2063356
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[ArchitectRPG][suite]'
+    - id: 1001
+      uniqueId: Tests.dll/[Tests][base_state_machine][suite]
+      name: base_state_machine
+      fullName: base_state_machine
+      resultStatus: 1
+      duration: 0.202594
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1004
+      parentUniqueId: '[Tests][F:/Projects/ArchitectRPG/Library/ScriptAssemblies/Tests.dll][suite]'
+    - id: 1002
+      uniqueId: Tests.dll/base_state_machine/[Tests][base_state_machine.initial_set_state_switches_to_state]
+      name: initial_set_state_switches_to_state
+      fullName: base_state_machine.initial_set_state_switches_to_state
+      resultStatus: 1
+      duration: 0.1745361
+      messages: 
+      output: 'Changed to state: Castle.Proxies.IStateProxy
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][base_state_machine][suite]
+    - id: 1003
+      uniqueId: Tests.dll/base_state_machine/[Tests][base_state_machine.subsequent_state_switches_to_state]
+      name: subsequent_state_switches_to_state
+      fullName: base_state_machine.subsequent_state_switches_to_state
+      resultStatus: 1
+      duration: 0.002833
+      messages: 
+      output: 'Changed to state: Castle.Proxies.IStateProxy
+
+        Changed to state:
+        Castle.Proxies.IStateProxy
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][base_state_machine][suite]
+    - id: 1005
+      uniqueId: Tests.dll/base_state_machine/[Tests][base_state_machine.transition_does_not_switch_state_when_condition_is_not_met]
+      name: transition_does_not_switch_state_when_condition_is_not_met
+      fullName: base_state_machine.transition_does_not_switch_state_when_condition_is_not_met
+      resultStatus: 1
+      duration: 0.0013852
+      messages: 
+      output: 'Changed to state: Castle.Proxies.IStateProxy
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][base_state_machine][suite]
+    - id: 1007
+      uniqueId: Tests.dll/base_state_machine/[Tests][base_state_machine.transition_does_not_switch_state_when_not_in_correct_source_state]
+      name: transition_does_not_switch_state_when_not_in_correct_source_state
+      fullName: base_state_machine.transition_does_not_switch_state_when_not_in_correct_source_state
+      resultStatus: 1
+      duration: 0.1806713
+      messages: 
+      output: 'Changed to state: Castle.Proxies.IStateProxy
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][base_state_machine][suite]
+    - id: 1006
+      uniqueId: Tests.dll/base_state_machine/[Tests][base_state_machine.transition_from_any_switches_state_when_condition_is_met]
+      name: transition_from_any_switches_state_when_condition_is_met
+      fullName: base_state_machine.transition_from_any_switches_state_when_condition_is_met
+      resultStatus: 1
+      duration: 0.001723
+      messages: 
+      output: 'Changed to state: Castle.Proxies.IStateProxy
+
+        Changed to state:
+        Castle.Proxies.IStateProxy
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][base_state_machine][suite]
+    - id: 1004
+      uniqueId: Tests.dll/base_state_machine/[Tests][base_state_machine.transition_switches_state_when_condition_is_met]
+      name: transition_switches_state_when_condition_is_met
+      fullName: base_state_machine.transition_switches_state_when_condition_is_met
+      resultStatus: 1
+      duration: 0.0016056
+      messages: 
+      output: 'Changed to state: Castle.Proxies.IStateProxy
+
+        Changed to state:
+        Castle.Proxies.IStateProxy
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][base_state_machine][suite]
+    m_ResultText: 'transition_does_not_switch_state_when_not_in_correct_source_state
+      (0.181s)
+
+      ---
+
+      Changed to state: Castle.Proxies.IStateProxy'
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 0658a81f
+      m_LastClickedID: 531126278
+      m_ExpandedIDs: 42ab3e90da14461922524b3a59e9577dffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &24
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12141, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 360}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Navigation
+    m_Image: {fileID: 1087843850482249999, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2052
+    y: 73
+    width: 507
+    height: 1013
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &25
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12402, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 150}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2192
+    y: 73
+    width: 367
+    height: 1013
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &26
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b8172b39a93e64981b6a57ccc39d67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 256, y: 400}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Collaborate
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2092
+    y: 73
+    width: 467
+    height: 1013
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &27
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 1107
+    width: 2560
+    height: 252
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &28
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13963, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_DontSaveToLayout: 0
